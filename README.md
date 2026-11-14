@@ -14,4 +14,4 @@ https://wokwi.com/projects/480641681894370305
 - `main.ino`: Chương trình điều khiển ESP32.
 - `diagram.json`: Sơ đồ kết nối linh kiện.
 - `libraries.txt`: Danh sách thư viện sử dụng (nếu có).
-- `index.html`: Giao diện website giám sát và điều khiển.
+- `index.html`:  https://namkhang2005dtvt1-web.github.io/He-thong-giam-sat-be-nuoi-ESP32/
